@@ -1,3 +1,3 @@
-Jobs-Bot
+# Jobs-Bot
 
-Slack integrated Hubot script to retrieve job listings.
+#### Slack integrated Hubot script to retrieve job listings.
